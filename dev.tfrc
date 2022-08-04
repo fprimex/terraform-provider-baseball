@@ -1,0 +1,6 @@
+provider_installation {
+  dev_overrides {
+    "brenthc/baseball" = "/Users/brent/code/terraform-provider-baseball"
+  }
+  direct {}
+}
