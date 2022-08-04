@@ -1,4 +1,4 @@
-module github.com/brenthc/terraform-provider-baseball
+module github.com/fprimex/terraform-provider-baseball
 
 go 1.16
 

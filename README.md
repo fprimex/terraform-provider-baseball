@@ -17,7 +17,7 @@ $ terraform apply
 │ Warning: Provider development overrides are in effect
 │
 │ The following provider development overrides are set in the CLI configuration:
-│  - brenthc/baseball in /Users/brent/code/terraform-provider-baseball
+│  - fprimex/baseball in /Users/brent/code/terraform-provider-baseball
 │
 │ The behavior may therefore not match any released version of the provider and applying changes may cause the state to
 │ become incompatible with published releases.

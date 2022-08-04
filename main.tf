@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     baseball = {
-      source = "brenthc/baseball"
+      source = "fprimex/baseball"
     }
   }
 }
